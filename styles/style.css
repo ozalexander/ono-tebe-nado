@@ -35,7 +35,7 @@ header {
   letter-spacing: 0.18px;
 }
 .cover {
-  position: relative; 
+  position: relative;
   z-index: -50;
   height: 757px;
   overflow:auto;
@@ -154,7 +154,7 @@ h3 {
   font-size: 20px;
   line-height: 120%;
 }
-.cards a{
+.cards a {
   text-decoration: none;
 }
 .movie {
